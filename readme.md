@@ -1,3 +1,3 @@
 ## Hello World
 
-- I am commiting this readme message from the dev-branch.
+- I am modifying this readme message from the dev-branch.
